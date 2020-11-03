@@ -1,0 +1,11 @@
+bookmarket\PolicyHandler.class
+bookmarket\AbstractEvent$1.class
+bookmarket\config\kafka\KafkaProcessor.class
+bookmarket\PayCanceled.class
+bookmarket\AbstractEvent.class
+bookmarket\OrderCanceled.class
+bookmarket\PaymentRepository.class
+bookmarket\Paid.class
+bookmarket\PaymentApplication.class
+bookmarket\Payment.class
+bookmarket\PaymentController.class
